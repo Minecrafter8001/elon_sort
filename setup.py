@@ -3,8 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="elon_sort",
     version="0.1.0",
-    author="",
-    description="an implementation of elon sort from this meme\nhttps://www.reddit.com/r/ProgrammerHumor/comments/1ivydje/elonsort/",
+    author="minecrafter8001",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/Minecrafter8001/elon_sort",  # Replace with your repo
